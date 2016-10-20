@@ -1,0 +1,5 @@
+D:\Projects\TDD\ConwaysGameOfLife\Conway.Library\bin\Debug\Conway.Library.dll
+D:\Projects\TDD\ConwaysGameOfLife\Conway.Library\bin\Debug\Conway.Library.pdb
+D:\Projects\TDD\ConwaysGameOfLife\Conway.Library\obj\Debug\Conway.Library.csprojResolveAssemblyReference.cache
+D:\Projects\TDD\ConwaysGameOfLife\Conway.Library\obj\Debug\Conway.Library.dll
+D:\Projects\TDD\ConwaysGameOfLife\Conway.Library\obj\Debug\Conway.Library.pdb

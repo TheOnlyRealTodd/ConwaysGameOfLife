@@ -1,0 +1,8 @@
+D:\Projects\TDD\ConwaysGameOfLife\Conway.ConsoleUI\bin\Debug\Conway.ConsoleUI.exe.config
+D:\Projects\TDD\ConwaysGameOfLife\Conway.ConsoleUI\bin\Debug\Conway.ConsoleUI.exe
+D:\Projects\TDD\ConwaysGameOfLife\Conway.ConsoleUI\bin\Debug\Conway.ConsoleUI.pdb
+D:\Projects\TDD\ConwaysGameOfLife\Conway.ConsoleUI\bin\Debug\Conway.Library.dll
+D:\Projects\TDD\ConwaysGameOfLife\Conway.ConsoleUI\bin\Debug\Conway.Library.pdb
+D:\Projects\TDD\ConwaysGameOfLife\Conway.ConsoleUI\obj\Debug\Conway.ConsoleUI.csprojResolveAssemblyReference.cache
+D:\Projects\TDD\ConwaysGameOfLife\Conway.ConsoleUI\obj\Debug\Conway.ConsoleUI.exe
+D:\Projects\TDD\ConwaysGameOfLife\Conway.ConsoleUI\obj\Debug\Conway.ConsoleUI.pdb

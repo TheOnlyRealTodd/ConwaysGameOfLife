@@ -1,0 +1,9 @@
+D:\Projects\TDD\ConwaysGameOfLife\Conway.Library.Tests\bin\Debug\Conway.Library.Tests.dll
+D:\Projects\TDD\ConwaysGameOfLife\Conway.Library.Tests\bin\Debug\Conway.Library.Tests.pdb
+D:\Projects\TDD\ConwaysGameOfLife\Conway.Library.Tests\bin\Debug\Conway.Library.dll
+D:\Projects\TDD\ConwaysGameOfLife\Conway.Library.Tests\bin\Debug\nunit.framework.dll
+D:\Projects\TDD\ConwaysGameOfLife\Conway.Library.Tests\bin\Debug\Conway.Library.pdb
+D:\Projects\TDD\ConwaysGameOfLife\Conway.Library.Tests\bin\Debug\nunit.framework.xml
+D:\Projects\TDD\ConwaysGameOfLife\Conway.Library.Tests\obj\Debug\Conway.Library.Tests.csprojResolveAssemblyReference.cache
+D:\Projects\TDD\ConwaysGameOfLife\Conway.Library.Tests\obj\Debug\Conway.Library.Tests.dll
+D:\Projects\TDD\ConwaysGameOfLife\Conway.Library.Tests\obj\Debug\Conway.Library.Tests.pdb
